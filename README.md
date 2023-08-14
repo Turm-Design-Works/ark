@@ -1,2 +1,2 @@
 # ark*~
-MIDI Controller
+Small size MIDI Controller
