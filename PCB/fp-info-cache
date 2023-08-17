@@ -1,4 +1,4 @@
-21757263611754317
+21757268975273012
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -63406,13 +63406,6 @@ MyLibrary
 2
 2
 MyLibrary
-2tht-5.08
-
-
-0
-2
-2
-MyLibrary
 3tht
 
 
@@ -63454,6 +63447,13 @@ MyLibrary
 0
 3
 3
+MyLibrary
+HUSG16M
+
+
+0
+2
+2
 MyLibrary
 LS601-CU
 
