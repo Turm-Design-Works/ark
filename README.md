@@ -24,10 +24,10 @@ Seeeduino Xiao SAMD21
 
 ・Setup Seeed SAMD boards 1.8.3 from board manager of Arduino IDE.
 
-・Load ARK-CORE sketch.
+・Upload ark-main sketch to xiao.
 
 ATmega328P-PU
 
 ・Burn arduino bootloader to chips.
 
-・Load each ATmega328P sketch.
+・Upload ark-ATmega328P_U2 and U3 sketch.
