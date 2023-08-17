@@ -1,0 +1,11 @@
+Seeeduino Xiao SAMD21 - microcom
+ATmega328P-PU *2 - IC
+74HC595AG - IC
+2281 - 7 segment LED
+LS601 - PUSH_SW with LED
+TVDP01 *2 - PUSH_SW
+EC12 *8 - rotaly encoder
+HUSG16MHz *2 - 16MHz Crystal
+220Ω register *9
+0.01uf (103) condenser *16
+22pf condenser *4
