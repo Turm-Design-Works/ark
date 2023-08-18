@@ -1,32 +1,34 @@
 # ark*~
 **MIDI Controller with Rotaly Encoders** for Algorhythmic Composition / Experimental Sound Artists.  
-We use seeeduino xiao as core, and 2 ATmega328P-PU chips as functional part.
+We use Seeed Xiao as core, and ATmega328P-PU ×2 AVR chips as functional part.
 
-ark*~  is open source hardware and software.
+ark*~  is **Open Source** hardware and software.
 
 ![IMG_7801](https://github.com/Turm-Design-Works/ark/assets/75283624/064a1bd0-33da-4259-b255-d205b1ef2da7)
 
 # LICENSES
-・firmware and PCB :  **MIT**  ( [Turm Design Works LLC.](https://turmdesignworks.com) )
+- firmware and PCB :  [**MIT**](https://github.com/Turm-Design-Works/ark/blob/main/LICENSE)  
+Copyright (C) 2023 Turm Design Works LLC.
 
-・arduino MIDIUSB Library :  **LGPL2.1**  ( https://github.com/arduino-libraries/MIDIUSB/ ) 
+- arduino MIDIUSB Library :  [**LGPL2.1**](https://github.com/arduino-libraries/MIDIUSB/blob/master/LICENSE.txt)  
+Copyright (C) 1991, 1999 Free Software Foundation, Inc.
+> ark*~ **is using MIDIUSB library as it is. You don't need to modify MIDIUSB.h library, just only install and calling.**
 
 # How to install
 
-first of all...
+**first of all...**
 
 - Download and install `Arduio IDE`.  
 - Install `MIDIUSB library` from library manager of Arduino IDE.  
-> ark*~ **is using MIDIUSB library as it is, You don't need to modify library code.**
 
-Seeeduino Xiao SAMD21
+**Seeed Xiao SAMD21**
 
-- Setup Seeed SAMD boards `1.8.3` from board manager of Arduino IDE.
+- Setup `Seeed SAMD boards` ver.`1.8.3` from board manager of Arduino IDE.
 
 - Upload ark-main sketch to seeeduino xiao.
 
-ATmega328P-PU *2
+**ATmega328P-PU ×2**
 
-- Burn arduino bootloader to chips.
+- Burn `Arduino bootloader` to 2 chips.
 
 - Upload ark-ATmega328P_U2 and U3 sketch.
