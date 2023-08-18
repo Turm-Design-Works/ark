@@ -15,18 +15,17 @@ ark*~  is open source hardware and software.
 
 first of all...
 
-- Download and install Arduio IDE.
-
-- Install MIDIUSB library from library manager of Arduino IDE.  
-ark*~ is using MIDIUSB library as it is, You don't need to customize code.
+- Download and install `Arduio IDE`.  
+- Install `MIDIUSB library` from library manager of Arduino IDE.  
+> ark*~ **is using MIDIUSB library as it is, You don't need to modify library code.**
 
 Seeeduino Xiao SAMD21
 
-- Setup Seeed SAMD boards 1.8.3 from board manager of Arduino IDE.
+- Setup Seeed SAMD boards `1.8.3` from board manager of Arduino IDE.
 
-- Upload ark-main sketch to xiao.
+- Upload ark-main sketch to seeeduino xiao.
 
-ATmega328P-PU
+ATmega328P-PU *2
 
 - Burn arduino bootloader to chips.
 
