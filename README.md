@@ -12,7 +12,8 @@ Copyright (C) 2023 Turm Design Works LLC.
 
 - arduino MIDIUSB Library :  [**LGPL2.1**](https://github.com/arduino-libraries/MIDIUSB/blob/master/LICENSE.txt)  
 Copyright (C) 1991, 1999 Free Software Foundation, Inc.
-> ark*~ **is using MIDIUSB library as it is. You don't need to modify MIDIUSB.h library, just only install and calling.**
+> ark*~ is using MIDIUSB library as it is. You don't need to modify MIDIUSB.h library,  
+> just only install and calling.
 
 # How to install
 
