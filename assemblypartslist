@@ -1,11 +1,11 @@
-Seeeduino Xiao SAMD21 - microcom
-ATmega328P-PU *2 - IC
-74HC595AG - IC
-2281 - 7 segment LED
+Seeed Xiao SAMD21 - microcom
+Microchip ATMEL ATmega328P-PU *2 - IC (on 28pin IC socket recommended.)
+74HC595AG - bit shift register IC (on 16pin IC socket recommended.)
+2281 - small size 7 segment LED
 LS601 - PUSH_SW with LED
-TVDP01 *2 - PUSH_SW
+TVDP01 *2 - small PUSH_SW for midi ch up/down
 EC12 *8 - rotaly encoder
 HUSG16MHz *2 - 16MHz Crystal
-220Ω register *9
-0.01uf (103) condenser *16
-22pf condenser *4
+220Ω register *9 for 2281
+103 condenser *16 for rotaly encoder
+22pf condenser *4 for driving ATmega328P
