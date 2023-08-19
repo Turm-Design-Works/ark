@@ -22,7 +22,7 @@ Copyright (C) 1991, 1999 Free Software Foundation, Inc.
 - Download and install `Arduio IDE`.  
 - Install `MIDIUSB library` from library manager of Arduino IDE.  
 
-**Seeed Xiao SAMD21**
+**Seeeduino Xiao SAMD21**
 
 - Setup `Seeed SAMD boards` ver.`1.8.3` from board manager of Arduino IDE.
 
