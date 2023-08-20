@@ -8,18 +8,16 @@ ark*~  is **Open Source** hardware and software.
 
 # LICENSES
 - firmware and PCB :  **MIT** ( [view LICENSE](https://github.com/Turm-Design-Works/ark/blob/main/LICENSE) )  
-Copyright (C) 2023 Turm Design Works LLC.
-
-- arduino MIDIUSB Library :  **LGPL2.1** ( [github MIDIUSB LICENSE](https://github.com/arduino-libraries/MIDIUSB/blob/master/LICENSE.txt) )  
-Copyright (C) 1991, 1999 Free Software Foundation, Inc.
-> ark*~ is using MIDIUSB library as it is. You don't need to modify MIDIUSB.h library, just only install.
+2023 Turm Design Works LLC.
 
 # How to install firmware
 
 **first of all...**
 
 - Download and install `Arduio IDE`.  
-- Install `MIDIUSB library` from library manager of Arduino IDE.  
+- Install `MIDIUSB library` from library manager of Arduino IDE.
+> ark*~ is using arduino MIDIUSB library as it is.
+> Don't modify MIDIUSB.h library, just only install.
 
 **Seeed : Xiao SAMD21**
 
