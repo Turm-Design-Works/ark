@@ -1,8 +1,6 @@
 /*
   SPDX-FileCopyrightText: 2023 Turm Design Works LLC. <info@turmdesignworks.com>
   SPDX-License-Identifier: MIT
-
-  Seeed SAMD21 board "version 1.8.3" required.
 */
 
 #include "MIDIUSB.h"
