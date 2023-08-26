@@ -1,6 +1,6 @@
 # ark*~
 **MIDI Controller with Rotaly Encoders** for Algorhythmic Composition / Experimental Sound Artists.  
-We use Seeed Xiao as core, and ATmega328P-PU ×2 AVR chips as functional part.
+ark*~ is using Seeed Xiao as core, and ATmega328P-PU ×2 AVR chips as functional part.
 
 ark*~  is **Open Source** hardware and software.
 
