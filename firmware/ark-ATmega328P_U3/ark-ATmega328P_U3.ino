@@ -122,24 +122,24 @@ void setup() {
 
   delay(500);
 
-  if(D1 = 255){ D1 = 1; } else {}
-  if(D2 = 255){ D2 = 2; } else {}
-  if(D3 = 255){ D3 = 3; } else {}
-  if(D4 = 255){ D4 = 4; } else {}
-  if(D5 = 255){ D5 = 5; } else {}
-  if(D6 = 255){ D6 = 6; } else {}
-  if(D7 = 255){ D7 = 7; } else {}
-  if(D8 = 255){ D8 = 8; } else {}
-  if(D11 = 255){ D11 = 11; } else {}
-  if(D12 = 255){ D12 = 12; } else {}
-  if(D13 = 255){ D13 = 13; } else {}
-  if(D14 = 255){ D14 = 14; } else {}
-  if(D15 = 255){ D15 = 15; } else {}
-  if(D16 = 255){ D16 = 16; } else {}
-  if(D17 = 255){ D17 = 17; } else {}
-  if(D18 = 255){ D18 = 18; } else {}
-  if(M1 = 255){ M1 = 1; } else {}
-  if(M2 = 255){ M2 = 2; } else {}    
+  if(D1 > 127){ D1 = 1; } else {}
+  if(D2 > 127){ D2 = 2; } else {}
+  if(D3 > 127){ D3 = 3; } else {}
+  if(D4 > 127){ D4 = 4; } else {}
+  if(D5 > 127){ D5 = 5; } else {}
+  if(D6 > 127){ D6 = 6; } else {}
+  if(D7 > 127){ D7 = 7; } else {}
+  if(D8 > 127){ D8 = 8; } else {}
+  if(D11 > 127){ D11 = 11; } else {}
+  if(D12 > 127){ D12 = 12; } else {}
+  if(D13 > 127){ D13 = 13; } else {}
+  if(D14 > 127){ D14 = 14; } else {}
+  if(D15 > 127){ D15 = 15; } else {}
+  if(D16 > 127){ D16 = 16; } else {}
+  if(D17 > 127){ D17 = 17; } else {}
+  if(D18 > 127){ D18 = 18; } else {}
+  if(M1 > 127){ M1 = 1; } else {}
+  if(M2 > 127){ M2 = 2; } else {}    
 
   delay(1500);
 
