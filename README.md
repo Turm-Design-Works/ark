@@ -4,6 +4,8 @@ ark*~ is using Seeed Xiao as core, and ATmega328P-PU ×2 AVR chips as functional
 
 ark*~  is **Open Source** hardware and software.
 
+This repository sourcecode is different from ark.*~ product version.
+
 ![IMG_7801](https://github.com/Turm-Design-Works/ark/assets/75283624/064a1bd0-33da-4259-b255-d205b1ef2da7)
 
 # LICENSES
